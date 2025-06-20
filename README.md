@@ -1,1 +1,1 @@
-# odin-recipes
+Within this project, I will be designing a simple html page with food recipes. This project covers the addition of images, paragraphs, unordered lists, and ordered list.
